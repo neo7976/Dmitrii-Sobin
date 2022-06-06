@@ -4,5 +4,8 @@ public class Main {
         System.out.println("Hello world");
         Person person = new Person("Petya", 15);
         System.out.println(person);
+
+        Person person1 = new Person("Olya", 48);
+        System.out.println(person1);
     }
 }
